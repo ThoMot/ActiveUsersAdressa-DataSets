@@ -1,2 +1,1 @@
-# News Reccomender System
-News reccomender system for articles from Adressa.no
+# Data set for TDT4215 Anbefalingssystemer 2021
